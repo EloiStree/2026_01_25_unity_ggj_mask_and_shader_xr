@@ -61,3 +61,19 @@ And a button allows to learn more on how he did it.
 * **(?) 28 September – 9 October:** What’s New in XR – Charleroi
   Recreate the game in SteamVR in VR
 
+## To check
+
+* Does **AssetBundle** still work?
+* Are **Addressables** easy to use?
+* Are **Compute Shaders** loadable at runtime?
+  * From an AssetBundle
+  * From a text file as HLSL
+* Are **Shader Graphs** loadable at runtime?
+
+## To do
+
+* Create a Git repository to ease community management of the best masks to load in the project
+  * As a manifest in Unity
+  * As AssetBundles to load
+* Make a copy of the package or a `git#commit` of the tools used on the last day of the jam.
+
