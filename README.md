@@ -29,6 +29,12 @@ And a button allows to learn more on how he did it.
 * Use Git Fork to add your package to the project
 
 
+# R&D
+
+* What would be the best way to see the shader in the mask when putting the mask.
+* It is fun to see in between the eyes of the mask ?
+* Do we apply a mask shape to the passthrough square given by the mask designer ?
+
 
 ## Upcoming dates where we could apply this workshop to test it
 
