@@ -1,26 +1,63 @@
-# Mask And Shader
+
+# Mask and Shader
 
 > Practice Git, shaders, and the basics of Unity by participating in this project.
 
-I was preparing a workshop for the in coming year 2026 when I read the theme "Mask".
+I was preparing a workshop for the coming year, 2026, when I read the theme **“Mask.”**
 
-An idea come to my mind, create a Hello World where the student learn what is 3D by creating a mask.
-Then create a Shader Effect linked to it to apply at the Quest3 Camera  or VR Filter (for no AR headset).
+An idea came to mind: create a *Hello World* project where students learn what 3D is by creating a mask.
+Then, create a shader effect linked to it and apply it to the Quest 3 camera or as a VR filter (for non-AR headsets).
 
-The application make appear masks of the community randomly in the field of view to play with.
-The player can grap it and see through them. 
+The application makes masks from the community appear randomly in the field of view so the player can play with them.  
+The player can grab the masks and see through them.  
+An element of the game allows to know who created the mask.  
+And a button allows to learn more on how he did it.   
 
-What to learn:
-- Create a Mask
-  - Create a 3D object
-  - Create a mask and texture
-  - create git package with dependency
-  - Make an asset that is loadable at runtime
-  - Learn to respect convention
-    - Resources
-    - Name
-    - Credit script
-    - Texture ready to use script.
-- Use Git to save a package
-- Use Git Fork to add your package to the project.
+## What to learn
+
+* **Create a mask**
+  * Create a 3D object
+  * Create a mask and its texture
+  * Create a Git package with dependencies
+  * Make an asset that is loadable at runtime
+  * Learn to respect conventions
+    * Resources
+    * Naming
+    * Credit script
+    * Texture-ready-to-use script
+* Use Git to save a package
+* Use Git Fork to add your package to the project
+
+
+
+## Upcoming dates where we could apply this workshop to test it
+
+* **5 & 6 February:** Nid Dev 2 – End Mons
+  One day to import a mask and create a Shader Graph effect
+* **9 & 13 February:** What’s New in XR – Charleroi
+  Step by step on how to create the game jam application and more
+* **16–20 February:** Learn to Code by Playing – La Louvière
+  *Do not apply*
+* **23 & 24 February:** What Is XR – Tournai
+  Create a mask in VR and import it into Unity with a basic Shader Graph
+* **26 & 27 February:** What Is XR – Mons
+  Create a mask in VR and import it into Unity with a basic Shader Graph
+* **2 & 3 March:** What Is XR – Charleroi
+  Create a mask in VR and import it into Unity with a basic Shader Graph
+* **18 March:** Nid Dev 1 – Charleroi
+  Create a mask and the Git package
+* **25 March:** Nid Dev 2 – Charleroi
+  Learn to use Shader Graph and read the texture with code
+* **7 April:** Hello Git & XR Dev – Charleroi
+  Learn Git by practicing the workshop
+* **8 & 10 April:** Hello Git & XR Artist 😋 – Charleroi
+  Learn Git by proposing a mask and a basic shader
+* **18 April:** La Louvière Gaming
+  Make kids test what was created by the previous students
+* **11 May – 5 June:** XR Development with Godot – Charleroi
+  Recreate the application code in Godot
+* **11 & 12 June:** XR Gaming Initiation – Mons
+  Recreate the application in Unity and improve it
+* **(?) 28 September – 9 October:** What’s New in XR – Charleroi
+  Recreate the game in SteamVR in VR
 
