@@ -1,0 +1,1 @@
+C:\Users\EloiStree\Desktop\HelloCameraTelemetry\MaskAndShaderXR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\573444v3\obj\arm64-v8a

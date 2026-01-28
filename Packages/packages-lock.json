@@ -1,5 +1,25 @@
 {
   "dependencies": {
+    "be.elab.camerapi": {
+      "version": "file:2025_06_13_upm_play_with_quest_camera_api",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.maskandshaderxr": {
+      "version": "https://github.com/EloiStree/2026_01_25_upm_mask_and_shader_xr.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9c40dae589aa4bdee118e1291e9723bf02aca9b1"
+    },
+    "be.elab.texturetoolbox": {
+      "version": "https://github.com/EloiStree/2025_06_13_upm_toolbox_texture_2d.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3c4a7da7263db452b72560c648fc4b2e7831b9b9"
+    },
     "com.meta.xr.mrutilitykit": {
       "version": "83.0.1",
       "depth": 1,
