@@ -1,7 +1,17 @@
 
+
+```
+git clone --recurse-submodules https://github.com/EloiStree/2026_01_25_unity_ggj_mask_and_shader_xr.git
+```
+
+===============
+
+
 # Mask and Shader
 
 > Practice Git, shaders, and the basics of Unity by participating in this project.
+
+
 
 I was preparing a workshop for the coming year, 2026, when I read the theme **“Mask.”**
 
