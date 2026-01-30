@@ -13,12 +13,19 @@
       "dependencies": {},
       "hash": "9c40dae589aa4bdee118e1291e9723bf02aca9b1"
     },
+    "be.elab.shaderfiltercollection": {
+      "version": "https://github.com/EloiStree/2026_01_28_upm_texture_process_filter.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d0b1c91356371b28b3c065168faa9f628ad22bb9"
+    },
     "be.elab.texturetoolbox": {
       "version": "https://github.com/EloiStree/2025_06_13_upm_toolbox_texture_2d.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "3c4a7da7263db452b72560c648fc4b2e7831b9b9"
+      "hash": "444a2850f721360d4912130d8c799690c3c66be8"
     },
     "com.meta.xr.mrutilitykit": {
       "version": "83.0.1",

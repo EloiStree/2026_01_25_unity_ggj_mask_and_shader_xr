@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "be.elab.maskandshaderxr": "https://github.com/EloiStree/2026_01_25_upm_mask_and_shader_xr.git",
+    "be.elab.shaderfiltercollection": "https://github.com/EloiStree/2026_01_28_upm_texture_process_filter.git",
     "be.elab.texturetoolbox": "https://github.com/EloiStree/2025_06_13_upm_toolbox_texture_2d.git",
     "com.meta.xr.sdk.all": "83.0.1",
     "com.unity.ai.navigation": "2.0.9",
