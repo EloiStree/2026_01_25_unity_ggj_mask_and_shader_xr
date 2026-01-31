@@ -4,7 +4,9 @@
 git clone --recurse-submodules https://github.com/EloiStree/2026_01_25_unity_ggj_mask_and_shader_xr.git
 ```
 
-===============
+Itchio: https://eloistree.itch.io/mask-and-shader-ggj
+
+-------------
 
 
 # Mask and Shader
